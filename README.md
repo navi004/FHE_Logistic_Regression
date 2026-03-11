@@ -269,8 +269,8 @@ The notebook runs in order:
 
 ## Authors
 
-Naveen N
-naveen.ndd2004@gmail.com
+**Naveen Nidadavolu**  
+📧 naveen.ndd2004@gmail.com  
 
 ---
 
